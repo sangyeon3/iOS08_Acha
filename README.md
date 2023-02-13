@@ -1,10 +1,8 @@
 # 아차 - 땅따먹기 게임
 
 <div align="center">
-<img src = "https://user-images.githubusercontent.com/76652929/207753778-a9e6be7c-9560-4d6a-87b1-4367b96b555f.png" width="400" height="400"/> 
+<img src = "https://user-images.githubusercontent.com/68235938/218527885-d2f77016-93aa-44f9-ac15-38dd93cc3fed.png" width="250" height="250"/> 
 </div>
-
-
 
 > 땅따먹기 게임을 아시나요?  
 >**아차**와 함께 재미있게 운동하며 새로운 **땅따먹기 게임**을 경험해보세요.  
